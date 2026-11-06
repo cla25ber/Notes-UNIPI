@@ -1,0 +1,7 @@
+# scripts for personal shortcuts
+scripts/
+
+# obsidian internal settings and plug-ins
+.obsidian/
+
+
